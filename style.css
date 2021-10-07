@@ -1,0 +1,57 @@
+#header_div{
+    background-color: white;
+    color:purple;
+    font-family: 'Palette Mosaic', cursive;
+}
+#header_div img{
+    width:100px;
+}
+
+.main_div{
+    background-color:silver;
+    border: 2px black solid;
+    padding: 20px;
+}
+
+.main_div label{
+    background: white;
+    width:350px;
+    padding: 10px;
+    box-shadow: 5px 5px 18px white;
+}
+
+#camera, #result{
+    border: 2px white solid;
+    width: 350px;
+    height: 300px;
+    box-shadow: 5px 5px 18px white;
+}
+
+#capture_img, #identify_img{
+    width:350px;
+    box-shadow: 5px 5px 18px white;
+    border: 2px white solid;
+    font-size: 16px;
+    background: white;
+}
+
+.footer_div{
+    background-color: silver;
+    margin-bottom: 20px;
+}
+
+.footer_div h4{
+    background-color: linen;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: linen;
+}
+
+.copy_right_footer{
+    text-align: center;
+    width: 100%;
+    line-height: 3px;
+    bottom: 0;
+    padding-bottom: 10px;
+}
+
